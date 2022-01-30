@@ -28,6 +28,6 @@ public class NotOrtalamasiHesaplayanProgram {
         double sonuc = toplam / 6.0;
         System.out.println("Not ortalamanız : " + sonuc);
 
-        System.out.println(sonuc > 60 ? "Sınıfı Geçti" : "Sınıfta Kaldınız");
+        System.out.println(sonuc > 60 ? "Sınıfı Geçtiniz" : "Sınıfta Kaldınız");
     }
 }
